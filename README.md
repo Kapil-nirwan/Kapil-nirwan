@@ -1,13 +1,40 @@
-- 👋 Hi, I’m @Kapil-nirwan
-- 👀 I’m interested in data analysis, data science, and business intelligence
-- 🌱 I’m currently learning advanced data analytics and data science at Hero Vired
-- 💞️ I’m looking to collaborate on data analysis projects, machine learning models, and data visualization tools
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kapil-nirwan-752176127) | [Email](mailto:nirwan.kapil103@gmail.com)
-- 😄 Pronouns: He/Him
-- 🎓 Education: MBA in Marketing from Amity University
+# 👋 Hi, I'm Kapil Nirwan  
 
+🎯 **Aspiring Data Analyst | SQL • Excel • Power BI • Python**  
 
-<!---
-Kapil-nirwan/Kapil-nirwan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m an MBA graduate in Marketing & HR, now transitioning into **Data Analytics**. With a background in **team management & operations (Niva Bupa)** and a certification in **Data Science & Analytics (Hero Vired)**, I bring both business sense and technical skills to transform data into actionable insights.  
+
+---
+
+## 🛠️ Tools & Technologies
+- **Programming & Querying:** SQL, Python (Pandas, NumPy, Matplotlib, Seaborn)  
+- **Visualization & Reporting:** Power BI, Tableau, Excel (Advanced)  
+- **Data Skills:** Data Cleaning, Data Modeling, Dashboarding, EDA  
+
+---
+
+## 📊 Projects
+- 🏡 **Real Estate Price Analysis** – Cleaned & modeled housing data to predict property prices using Python.  
+- 🚚 **Logistics Cost Optimization** – Analyzed delivery & fuel data; built Power BI dashboards for performance tracking.  
+- 🏨 **Airbnb Data Dashboard** – Created interactive Power BI dashboards to analyze booking & property performance.  
+- 🏦 **Bank Loan Approval Modeling** – Conducted EDA & predictive modeling on financial datasets.  
+- 👥 **HR Analytics (Internship Project)** – Recruitment data analysis & reporting using Excel and SQL.  
+
+*(More projects available in my repositories 👇)*  
+
+---
+
+## 🌱 Currently Exploring
+- Building **end-to-end data analytics projects**  
+- Applying **HR & business knowledge** with analytics  
+- Preparing for **entry-level Data Analyst / BI Analyst roles**  
+
+---
+
+## 📬 Let’s Connect
+- 🔗 [LinkedIn](https://www.linkedin.com/in/kapil-nirwan)  
+- 📧 nirwan.kapil103@gmail.com  
+
+---
+
+✨ *“Turning messy data into meaningful insights.”*
