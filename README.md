@@ -2,7 +2,7 @@
 
 🎯 **Aspiring Data Analyst | SQL • Excel • Power BI • Python**  
 
-I’m an MBA graduate in Marketing & HR, now transitioning into **Data Analytics**. With a background in **team management & operations (Niva Bupa)** and a certification in **Data Science & Analytics (Hero Vired)**, I bring both business sense and technical skills to transform data into actionable insights.  
+I’m an MBA Postgraduate in Marketing & HR, now transitioning into **Data Analytics**. With a background in **team management & operations (Niva Bupa)** and a certification in **Data Science & Analytics (Hero Vired)**, I bring both business sense and technical skills to transform data into actionable insights.  
 
 ---
 
